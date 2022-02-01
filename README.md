@@ -128,6 +128,13 @@ https://arxiv.org/pdf/2012.09159.pdf
 - paper: [https://arxiv.org/pdf/2104.07660.pdf](https://arxiv.org/pdf/2104.07660.pdf)
 
 
+## Good theories
+**[1] Controlling Neural Level Sets
+- intro: A new concept level sets
+- paper: [https://deepai.org/publication/controlling-neural-level-sets](https://deepai.org/publication/controlling-neural-level-sets)
+
+
+
 ## Video Generation Transformer
 
 **[1] A Video Is Worth Three Views: Trigeminal Transformers for Video-based Person Re-identification**
